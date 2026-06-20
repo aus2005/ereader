@@ -6,8 +6,8 @@
 // ----------------------------------------------------
 // CONFIG
 // ----------------------------------------------------
-const char* WIFI_SSID     = "austina_2.4";
-const char* WIFI_PASSWORD = "CLFE3BE458";
+const char* WIFI_SSID     = "..........";
+const char* WIFI_PASSWORD = "..........";
 
 const int   CHUNK_SIZE    = 2000;
 
